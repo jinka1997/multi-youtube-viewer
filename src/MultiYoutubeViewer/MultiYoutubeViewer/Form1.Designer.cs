@@ -72,7 +72,7 @@ namespace MultiYoutubeViewer
             // 
             this.panel10.Location = new System.Drawing.Point(93, 12);
             this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(1070, 622);
+            this.panel10.Size = new System.Drawing.Size(1333, 679);
             this.panel10.TabIndex = 8;
             // 
             // button1
@@ -89,7 +89,7 @@ namespace MultiYoutubeViewer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1175, 646);
+            this.ClientSize = new System.Drawing.Size(1438, 703);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.panel10);
             this.Controls.Add(this.listBox1);
